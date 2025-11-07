@@ -1,0 +1,7 @@
+# General Aliases
+alias cd-dotfiles="cd ~/dotfiles"
+alias cd-dev="cd ~/Development"
+alias cd-archive="cd ~/Development/archive"
+alias cd-learning="cd ~/Development/learning"
+alias cd-projects="cd ~/Development/projects"
+alias cd-sandbox="cd ~/Development/sandbox"

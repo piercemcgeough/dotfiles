@@ -1,0 +1,13 @@
+brew "gemini-cli"
+brew "git"
+brew "git-flow-avh"
+
+cask "coderunner"
+cask "dbngin"
+cask "github"
+cask "herd"
+cask "phpstorm"
+cask "postman"
+cask "sequel-ace"
+cask "tableplus"
+cask "visual-studio-code"
